@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5c0169/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上混元老子史略
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:53:19.932225'
+  source:
+    repository: kanripo
+    path: KR5c0169/KR5c0169_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:6ffc1a0214131847cd33309656006a1e8fdbe1520c37e9e64e61c66ff7f3d67c
